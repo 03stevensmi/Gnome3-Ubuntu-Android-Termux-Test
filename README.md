@@ -42,8 +42,9 @@ then type this:
        "gnome-terminal &n".
        </pre>
        
-       Start VNC On Ubuntu:
-       <pre>
+       Start VNC Server On Ubuntu:
+      
+      <pre>
        $vncserver
        </pre>
        
