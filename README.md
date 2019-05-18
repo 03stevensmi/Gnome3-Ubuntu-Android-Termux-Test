@@ -33,43 +33,41 @@ Find Where It Says:
 # exec /etc/X11/xinit/xinitrcnn
 
 then type this:
-    <pre>
+<pre>
     "# exec /etc/X11/xinit/xinitrcnn".
        "gnome-shell &n".
        "gnome-settings-daemon &n".
        "mutter &n".
        "nautilus &n".
        "gnome-terminal &n".
-       </pre>
+</pre>
        
-       Start VNC Server On Ubuntu:
-      
-      <pre>
+Start VNC Server On Ubuntu:
+       <pre>
        $vncserver
        </pre>
        
-       Type any 6 letter password Of Your Choice:
+Type any 6 letter password Of Your Choice:
        <pre>
        Password: Pas123
        Verify: Pas123
        </pre>
        (REMEMBER THAT YOU CAN'T SEE WHAT YOUR TYPING IN WHEN YOU TYPE YOUR PASSWORD! SO MAKE SURE ITS CORRECT!)
        
-       Check If VNC Is Working On Ubuntu:
+Check If VNC Is Working On Ubuntu:
        <pre>
        $netstat -tulpn
        </pre>
        
-       Connect To Gnome3 On Your Android VNC App:
+Connect To Gnome3 On Your Android VNC App:
        <pre>
        Host: 127.0.0.1:5901
        (IF YOUR APP HAS A PORT OPTION, REMOVE :5901 FROM HOST AND TYPE 5901 IN PORT WITHOUT : )
-       
        Password: (YOUR CHOSEN 6 LETTER PASSWORD PASSWORD)
        </pre>
        
        
-       PRESS CONNECT AND LETS SEE IF WHAT HAPPENDS!
+PRESS CONNECT AND LETS SEE IF WHAT HAPPENDS!
        
  
     
