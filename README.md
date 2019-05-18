@@ -63,7 +63,7 @@ Connect To Gnome3 On Your Android VNC App:
        <pre>
        Host: 127.0.0.1:5901
        (IF YOUR APP HAS A PORT OPTION, REMOVE :5901 FROM HOST AND TYPE 5901 IN PORT WITHOUT : )
-       Password: (YOUR CHOSEN 6 LETTER PASSWORD PASSWORD)
+       Password: (YOUR CHOSEN 6 LETTER PASSWORD)
        </pre>
        
        
